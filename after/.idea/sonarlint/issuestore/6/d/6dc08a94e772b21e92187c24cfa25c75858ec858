@@ -1,0 +1,26 @@
+
+\	java:S112á"FDefine and throw a dedicated exception instead of using a generic one.(úûÂ®
+e
+java:S1192Ä"NDefine a constant instead of duplicating this literal "articleStatus" 6 times.(¦Áï˜
+Y
+java:S2184Æ"BCast one of the operands of this division operation to a "double".(’Óéû
+Y
+java:S2184¡"BCast one of the operands of this division operation to a "double".(’Óéû
+N	java:S106v"9Replace this use of System.out or System.err by a logger.(•ÀÒı
+_
+java:S1134x"DTake the required action to fix the issue indicated by this comment.(®ŞÔ«şÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(¹É•å
+`
+java:S1134“"DTake the required action to fix the issue indicated by this comment.(ãÙ‘õûÿÿÿÿ
+`
+java:S1134Õ"DTake the required action to fix the issue indicated by this comment.(ïê´ùÿÿÿÿ
+r
+java:S3252Õ"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(¶—ìÖıÿÿÿÿ8 ËØª0
+r
+java:S3252ñ"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(¶—ìÖıÿÿÿÿ8£ËØª0
+X
+java:S1128"6Remove this unused import 'com.mongodb.gridfs.GridFS'.(…Îã°ıÿÿÿÿ8²¾ËØª0
+h
+java:S1128!"FRemove this unused import 'org.checkerframework.checker.units.qual.A'.(¿‚áñøÿÿÿÿ8³¾ËØª0
+f
+java:S1128-"DRemove this unused import 'org.springframework.http.ResponseEntity'.(¶¯ø¦úÿÿÿÿ8³¾ËØª0

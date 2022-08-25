@@ -1,0 +1,15 @@
+
+|
+java:S1128"aRemove this unused import 'org.springframework.cloud.client.circuitbreaker.EnableCircuitBreaker'.(ÏÊØ¡ÿÿÿÿÿ
+u
+java:S1128"SRemove this unused import 'org.springframework.cloud.openfeign.EnableFeignClients'.(Š˜Â®ıÿÿÿÿ8É‰ıª0
+^
+java:S1128	"HRemove this unused import 'org.springframework.context.annotation.Bean'.(‚î‰Ş
+h
+java:S1128"RRemove this unused import 'org.springframework.context.annotation.ComponentScans'.(è¦ù
+l
+java:S1128"QRemove this unused import 'org.springframework.context.annotation.Configuration'.(¬²Úäşÿÿÿÿ
+`
+java:S1128"ERemove this unused import 'org.springframework.stereotype.Component'.(Ş÷Ñ¸ÿÿÿÿÿ
+Y
+java:S1128"CRemove this unused import 'org.springframework.stereotype.Service'.(¼º¡Ú

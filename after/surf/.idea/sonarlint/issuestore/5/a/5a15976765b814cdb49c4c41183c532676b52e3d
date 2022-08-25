@@ -1,0 +1,20 @@
+
+[
+java:S1124""EReorder the modifiers to comply with the Java Language Specification.(Ç„ä˜
+S	java:S106("9Replace this use of System.out or System.err by a logger.(ˆ¼Ê¬ÿÿÿÿÿ
+S	java:S106n"9Replace this use of System.out or System.err by a logger.(éÏô¹şÿÿÿÿ
+O	java:S106„"9Replace this use of System.out or System.err by a logger.(ôâ¥Ø
+G
+java:S1481ˆ"+Remove this unused "userId" local variable.(”­¢­üÿÿÿÿ
+c
+java:S1128"MRemove this unused import 'com.imooc.api.controller.user.HelloControllerApi'.(ö¼üâ
+P
+java:S1128":Remove this unused import 'com.imooc.pojo.vo.PublisherVO'.(úˆì‘
+U
+java:S1128":Remove this unused import 'com.imooc.utils.RedisOperator'.(•‰÷»ûÿÿÿÿ
+d
+java:S1128"IRemove this unused import 'org.springframework.validation.BindingResult'.(‹¶¸ùÿÿÿÿ
+e
+java:S1128"ORemove this unused import 'org.springframework.web.bind.annotation.GetMapping'.(‡¡‰Ø
+E
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ

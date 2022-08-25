@@ -1,0 +1,11 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ùŒâåüÿÿÿÿ
+Z	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(¶—¹_
+`	java:S1122"FDefine and throw a dedicated exception instead of using a generic one.(—­¦¥ûÿÿÿÿ
+`	java:S112>"FDefine and throw a dedicated exception instead of using a generic one.(—­¦¥ûÿÿÿÿ
+\
+java:S1128"?Remove this unused import 'com.imooc.api.config.MyServiceList'.(ãÆŞ‹8øÅåÓª0
+V
+java:S1128"@Remove this unused import 'io.swagger.annotations.ApiOperation'.(¡šÜ
+i
+java:S1128"LRemove this unused import 'org.springframework.cloud.openfeign.FeignClient'.(«ÀÔí8ùÅåÓª0

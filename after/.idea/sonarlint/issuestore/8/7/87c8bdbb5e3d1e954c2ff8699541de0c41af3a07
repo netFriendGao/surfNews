@@ -1,0 +1,20 @@
+
+b
+java:S1192)"LDefine a constant instead of duplicating this literal "createdTime" 3 times.(ºÈ­¼
+j
+java:S3252;"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(¶—ìÖıÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'com.imooc.enums.Sex'.(Çğ‘Æ
+Z
+java:S1128"?Remove this unused import 'com.imooc.exception.GraceException'.(™Á–øÿÿÿÿ
+a
+java:S1128"FRemove this unused import 'com.imooc.grace.result.ResponseStatusEnum'.(Ê£€Äúÿÿÿÿ
+U
+java:S1128
+"?Remove this unused import 'com.imooc.pojo.bo.UpdateUserInfoBO'.(èØ¸
+U
+java:S1128"?Remove this unused import 'com.imooc.user.service.UserService'.(œ­ïˆ
+G
+java:S1128"1Remove this unused import 'org.n3r.idworker.Sid'.(¿·ûÔ
+V
+java:S1128"@Remove this unused import 'org.springframework.beans.BeanUtils'.(ŠğÄÜ

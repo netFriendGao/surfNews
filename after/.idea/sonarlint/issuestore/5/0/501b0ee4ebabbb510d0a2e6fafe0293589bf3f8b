@@ -1,0 +1,42 @@
+
+[
+java:S11240"EReorder the modifiers to comply with the Java Language Specification.(ĞÖÿĞ
+b
+java:S1128"@Remove this unused import 'com.imooc.api.config.RabbitMQConfig'.(¿óåüÿÿÿÿ8ş¤Ó±«0
+a
+java:S1128
+"?Remove this unused import 'com.imooc.exception.GraceException'.(™Á–øÿÿÿÿ8ÿ¤Ó±«0
+T
+java:S1128"8Remove this unused import 'com.imooc.pojo.vo.AppUserVO'.(óš¾68ÿ¤Ó±«0
+`
+java:S1128">Remove this unused import 'com.imooc.pojo.vo.ArticleDetailVO'.(±­Œÿÿÿÿÿ8ÿ¤Ó±«0
+e
+java:S1128"CRemove this unused import 'com.mongodb.client.gridfs.GridFSBucket'.(±Æ†úÿÿÿÿ8ÿ¤Ó±«0
+`
+java:S1128">Remove this unused import 'freemarker.template.Configuration'.(ğô£Æùÿÿÿÿ8ÿ¤Ó±«0
+U
+java:S1128"9Remove this unused import 'freemarker.template.Template'.(Àëê/8ÿ¤Ó±«0
+W
+java:S1128":Remove this unused import 'org.apache.commons.io.IOUtils'.(Ì–’8ÿ¤Ó±«0
+V
+java:S1128"4Remove this unused import 'org.bson.types.ObjectId'.(Ü¡‰çıÿÿÿÿ8€¥Ó±«0
+l
+java:S1128"ORemove this unused import 'org.springframework.beans.factory.annotation.Value'.(ìø›8€¥Ó±«0
+b
+java:S1128"@Remove this unused import 'org.springframework.http.HttpStatus'.(íŸ¤Šúÿÿÿÿ8€¥Ó±«0
+f
+java:S1128 "DRemove this unused import 'org.springframework.http.ResponseEntity'.(¶¯ø¦úÿÿÿÿ8€¥Ó±«0
+[
+java:S1128!"9Remove this unused import 'org.springframework.ui.Model'.(ê†ıÿÿÿÿ8€¥Ó±«0
+s
+java:S1128""VRemove this unused import 'org.springframework.ui.freemarker.FreeMarkerTemplateUtils'.(»Õ¾¡8€¥Ó±«0
+k
+java:S1128#"IRemove this unused import 'org.springframework.validation.BindingResult'.(‹¶¸ùÿÿÿÿ8€¥Ó±«0
+F
+java:S1128'")Remove this unused import 'java.io.File'.(†Ğ¥Å8¥Ó±«0
+Q
+java:S1128("/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃıÿÿÿÿ8¥Ó±«0
+M
+java:S1128)"0Remove this unused import 'java.io.InputStream'.(¹»º8¥Ó±«0
+M
+java:S1128*"+Remove this unused import 'java.io.Writer'.(Î”øÿÿÿÿ8¥Ó±«0

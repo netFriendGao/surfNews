@@ -1,0 +1,31 @@
+
+E
+java:S3740Š"/Provide the parametrized type for this generic.(Á›îI
+F
+java:S3740¸"/Provide the parametrized type for this generic.(ÿÙà
+n
+java:S1192U"LDefine a constant instead of duplicating this literal "publishTime" 3 times.(¸Ê€¹ÿÿÿÿÿ8ª¦Š°ª0
+f
+java:S2259¢"JA "NullPointerException" could be thrown; "pagedArticle" is nullable here.(å«ì¬ıÿÿÿÿ
+~
+java:S4165±"hRemove this useless assignment; "gridResult" already holds the assigned value along all execution paths.(êîÉg
+~
+java:S4165É"hRemove this useless assignment; "gridResult" already holds the assigned value along all execution paths.(êîÉg
+~
+java:S4165©"hRemove this useless assignment; "gridResult" already holds the assigned value along all execution paths.(êîÉg
+~
+java:S4165°"hRemove this useless assignment; "gridResult" already holds the assigned value along all execution paths.(êîÉg
+g
+java:S11242"EReorder the modifiers to comply with the Java Language Specification.(Ÿê¼üÿÿÿÿ8—¾¾ú«0
+O	java:S106Û"9Replace this use of System.out or System.err by a logger.(â¤Ó½
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ÿø‡†şÿÿÿÿ
+b
+java:S1128"ERemove this unused import 'com.imooc.article.service.ArticleService'.(­õÇ‰8Œ”ö¯ª0
+W
+java:S1128":Remove this unused import 'com.imooc.pojo.vo.PublisherVO'.(úˆì‘8Œ”ö¯ª0
+h
+java:S1128"FRemove this unused import 'org.elasticsearch.search.sort.SortBuilder'.(¸Ğ•†ùÿÿÿÿ8Œ”ö¯ª0
+‚
+java:S1128&"`Remove this unused import 'org.springframework.data.elasticsearch.core.query.NativeSearchQuery'.(çí—”ıÿÿÿÿ8”ö¯ª0
+f
+java:S1128)"DRemove this unused import 'org.springframework.http.ResponseEntity'.(¶¯ø¦úÿÿÿÿ8”ö¯ª0

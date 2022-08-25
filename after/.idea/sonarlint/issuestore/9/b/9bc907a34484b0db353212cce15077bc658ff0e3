@@ -1,0 +1,31 @@
+
+a	java:S112Ô"FDefine and throw a dedicated exception instead of using a generic one.(­Â§Øüÿÿÿÿ
+n	java:S135i"YReduce the total number of break and continue statements in this loop to use at most one.(±ºÎô
+M
+java:S2629U"7Use the built-in formatting to construct this argument.(Î¿¢Ÿ
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ó¨Ôÿÿÿÿÿ
+Z
+java:S2259ß"DA "NullPointerException" could be thrown; "gridFS" is nullable here.(¨Ê›
+`
+java:S1124'"EReorder the modifiers to comply with the Java Language Specification.(Ş¿·Îúÿÿÿÿ
+@
+java:S1197@"*Move the array designators [] to the type.(şßèÓ
+W
+java:S3457U"AFormat specifiers should be used instead of string concatenation.(Î¿¢Ÿ
+h
+java:S3776a"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Ã¥£Ü
+2
+java:S3626"Remove this redundant jump.(ÉŠ©ƒ
+@
+java:S1197q"*Move the array designators [] to the type.(şßèÓ
+R	java:S125‰"<This block of commented-out lines of code should be removed.(à€ßÍ
+[
+java:S1134Š"DTake the required action to fix the issue indicated by this comment.(òµÉÿ
+N	java:S106à"9Replace this use of System.out or System.err by a logger.(¦Ë¸s
+X
+java:S1075ã"ARefactor your code to get this URI from a customizable parameter.(ÏË†
+X
+java:S1128"6Remove this unused import 'com.mongodb.gridfs.GridFS'.(…Îã°ıÿÿÿÿ8ÛØ¾Ôª0
+L
+java:S1144–"5Remove this unused private "doAliImageReview" method.(¹ãÛø

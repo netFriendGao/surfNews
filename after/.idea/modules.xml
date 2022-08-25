@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/surf/immoc-news-dev-gateway/imooc-news-dev-gateway.iml" filepath="$PROJECT_DIR$/surf/immoc-news-dev-gateway/imooc-news-dev-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-news-dev/surf.iml" filepath="$PROJECT_DIR$/imooc-news-dev/surf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-news-dev/imooc-news-dev-common/surf-news-dev-common.iml" filepath="$PROJECT_DIR$/imooc-news-dev/imooc-news-dev-common/surf-news-dev-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-news-dev/imooc-news-dev-model/surf-news-dev-model.iml" filepath="$PROJECT_DIR$/imooc-news-dev/imooc-news-dev-model/surf-news-dev-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-news-dev/imooc-news-dev-service-admin/surf-news-dev-service-admin.iml" filepath="$PROJECT_DIR$/imooc-news-dev/imooc-news-dev-service-admin/surf-news-dev-service-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-news-dev/imooc-news-dev-service-api/surf-news-dev-service-api.iml" filepath="$PROJECT_DIR$/imooc-news-dev/imooc-news-dev-service-api/surf-news-dev-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-news-dev/imooc-news-dev-service-article/surf-news-dev-service-article.iml" filepath="$PROJECT_DIR$/imooc-news-dev/imooc-news-dev-service-article/surf-news-dev-service-article.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-news-dev/imooc-news-dev-service-article-html/surf-news-dev-service-article-html.iml" filepath="$PROJECT_DIR$/imooc-news-dev/imooc-news-dev-service-article-html/surf-news-dev-service-article-html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-news-dev/imooc-news-dev-service-files/surf-news-dev-service-files.iml" filepath="$PROJECT_DIR$/imooc-news-dev/imooc-news-dev-service-files/surf-news-dev-service-files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-news-dev/imooc-news-dev-service-search/surf-news-dev-service-search.iml" filepath="$PROJECT_DIR$/imooc-news-dev/imooc-news-dev-service-search/surf-news-dev-service-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-news-dev/imooc-news-dev-service-user/surf-news-dev-service-user.iml" filepath="$PROJECT_DIR$/imooc-news-dev/imooc-news-dev-service-user/surf-news-dev-service-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/后端.iml" filepath="$PROJECT_DIR$/.idea/后端.iml" />
+    </modules>
+  </component>
+</project>

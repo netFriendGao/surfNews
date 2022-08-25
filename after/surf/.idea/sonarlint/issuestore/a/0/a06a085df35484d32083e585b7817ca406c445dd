@@ -1,0 +1,25 @@
+
+R
+java:S4973U"<Strings and Boxed types should be compared using "equals()".(ôÌÒŠ
+a
+java:S21849"FCast one of the operands of this multiplication operation to a "long".(£ªçÛûÿÿÿÿ
+`
+java:S1124#"EReorder the modifiers to comply with the Java Language Specification.(¸ä›¡úÿÿÿÿ
+?
+java:S21405")Use "java.util.Random.nextInt()" instead.(É‘Õ¿
+Q	java:S1256"<This block of commented-out lines of code should be removed.(ñÅŒ’
+Q	java:S125E"<This block of commented-out lines of code should be removed.(üçŞ¤
+N
+java:S1128"3Remove this unused import 'com.imooc.utils.MyInfo'.(¬Ó•Ğøÿÿÿÿ
+a
+java:S1128"FRemove this unused import 'org.checkerframework.checker.units.qual.A'.(¿‚áñøÿÿÿÿ
+d
+java:S1128"IRemove this unused import 'org.springframework.validation.BindingResult'.(‹¶¸ùÿÿÿÿ
+a
+java:S1128"FRemove this unused import 'org.springframework.validation.FieldError'.(ÖŒéıÿÿÿÿ
+I
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+E
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ

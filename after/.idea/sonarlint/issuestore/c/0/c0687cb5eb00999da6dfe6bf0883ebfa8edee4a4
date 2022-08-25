@@ -1,0 +1,16 @@
+
+p
+java:S1488"ZImmediately return this expression instead of assigning it to the temporary variable "rs".(Ëäó¯
+Q	java:S125"<This block of commented-out lines of code should be removed.(ŠÚ¨Ü
+b
+java:S5998"LRefactor this repetition that can lead to a stack overflow for large inputs.(õøšÇ
+K
+java:S6353"5Use concise quantifier syntax '?' instead of '{0,1}'.(õøšÇ
+K
+java:S6353"5Use concise quantifier syntax '?' instead of '{0,1}'.(õøšÇ
+K
+java:S6353"5Use concise quantifier syntax '?' instead of '{0,1}'.(õøšÇ
+V	java:S125"<This block of commented-out lines of code should be removed.(àé½€ıÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(¸šñÙüÿÿÿÿ
+j
+java:S5843"TSimplify this regular expression to reduce its complexity from 40 to the 20 allowed.(õøšÇ

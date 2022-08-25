@@ -1,0 +1,12 @@
+
+Z	java:S112<"FDefine and throw a dedicated exception instead of using a generic one.(Æ«Ä
+t	java:S135‘"YReduce the total number of break and continue statements in this loop to use at most one.(„¹¾êúÿÿÿÿ
+t	java:S135¨"YReduce the total number of break and continue statements in this loop to use at most one.(„¹¾êúÿÿÿÿ
+\	java:S899t"BDo something with the "boolean" value returned by "createNewFile".(Ïú¨æøÿÿÿÿ
+X	java:S899‡"BDo something with the "boolean" value returned by "createNewFile".(­†¶¿
+S
+java:S1117•"<Rename "workerId" which hides the field declared at line 34.(×Ä»è
+S
+java:S1117¬"<Rename "workerId" which hides the field declared at line 34.(×Ä»è
+X
+java:S1117¯"<Rename "fileLock" which hides the field declared at line 35.(³æ™ïøÿÿÿÿ

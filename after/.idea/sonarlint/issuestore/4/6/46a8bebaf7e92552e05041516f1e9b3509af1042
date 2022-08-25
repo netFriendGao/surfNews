@@ -1,0 +1,28 @@
+
+`	java:S1125"FDefine and throw a dedicated exception instead of using a generic one.(í½ûÃúÿÿÿÿ
+[	java:S112F"FDefine and throw a dedicated exception instead of using a generic one.(ôéÕ³
+`	java:S112_"FDefine and throw a dedicated exception instead of using a generic one.(ãÃİ²ıÿÿÿÿ
+f	java:S117v"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â‰İ­
+8
+java:S1643œ"Use a StringBuilder instead.(¦í°—øÿÿÿÿ
+t	java:S115#"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Û·şÛùÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(»Ö™
+h	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôÿ®®ÿÿÿÿÿ
+B
+java:S24402",Remove this instantiation of "Base64Helper".(³—é´
+K
+java:S22093"5Change this instance-reference to a static reference.(™ü‹æ
+h	java:S100="NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì•½úÿÿÿÿ
+P
+java:S2209D"5Change this instance-reference to a static reference.(×Äõıÿÿÿÿ
+G
+java:S2440D",Remove this instantiation of "Base64Helper".(×Äõıÿÿÿÿ
+Q	java:S125L"<This block of commented-out lines of code should be removed.(ÀáÑÏ
+P	java:S125h"<This block of commented-out lines of code should be removed.(¹¡ºX
+E
+java:S2093m"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+]
+java:S1126Í"AReplace this if-then-else statement by a single return statement.(§”Ï¢úÿÿÿÿ
+W	java:S125Ê"<This block of commented-out lines of code should be removed.(ÔÀıÙøÿÿÿÿ
+W	java:S125ó"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿ

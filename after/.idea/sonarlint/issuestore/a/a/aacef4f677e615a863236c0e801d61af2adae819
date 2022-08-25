@@ -1,0 +1,34 @@
+
+o
+java:S2293$"YReplace the type specification in this constructor call with the diamond operator ("<>").(à¢ˆğ
+o
+java:S2293%"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦«Ş
+\
+java:S1192""FDefine a constant instead of duplicating this literal "UTF-8" 4 times.(ÃÉêù
+R
+java:S1874"7Remove this use of "setAcceptFormat"; it is deprecated.(²•Ó—úÿÿÿÿ
+G
+java:S1874!"1Remove this use of "setMethod"; it is deprecated.(íÌ¾
+I
+java:S1874""3Remove this use of "setEncoding"; it is deprecated.(ÃÉêù
+N
+java:S1874#"3Remove this use of "setRegionId"; it is deprecated.(‚•„åşÿÿÿÿ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(øøğúÿÿÿÿ
+_
+java:S2147c"DCombine this catch with the one at line 97, which has the same body.(Àµõ×ûÿÿÿÿ
+T
+java:S47198"9Replace charset name argument with StandardCharsets.UTF_8(ó†œüşÿÿÿÿ
+O
+java:S1874:"9Remove this use of "setConnectTimeout"; it is deprecated.(Ñµ—
+L
+java:S1874;"6Remove this use of "setReadTimeout"; it is deprecated.(ùòÀ
+O
+java:S4719?"9Replace charset name argument with StandardCharsets.UTF_8(·Ë¤
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(éØ€´ûÿÿÿÿ
+P	java:S125G"<This block of commented-out lines of code should be removed.(Œ¬Õ)
+S	java:S106L"9Replace this use of System.out or System.err by a logger.(ñëœ§ıÿÿÿÿ
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(’ø•
+V	java:S125R"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+S	java:S106U"9Replace this use of System.out or System.err by a logger.(ÄŸÚñûÿÿÿÿ
+S	java:S106Z"9Replace this use of System.out or System.err by a logger.(Ãø”İüÿÿÿÿ
+S	java:S106^"9Replace this use of System.out or System.err by a logger.(ì©…Öıÿÿÿÿ

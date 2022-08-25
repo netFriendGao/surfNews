@@ -1,0 +1,21 @@
+
+E
+java:S1066u"/Merge this if statement with the enclosing one.(ıÛû
+J
+java:S1066~"/Merge this if statement with the enclosing one.(¬ÊçÜÿÿÿÿÿ
+_
+java:S2259È"HA "NullPointerException" could be thrown; "bodyResult" is nullable here.(‹ÖÇ£
+P
+java:S2387%"3"redis" is the name of a field in "BaseController".(‰ÆšÏ8 •­0
+`
+java:S1124""EReorder the modifiers to comply with the Java Language Specification.(‰ç¹öşÿÿÿÿ
+G
+java:S11357"2Complete the task associated to this TODO comment.(·‰Ë5
+G
+java:S1135q"2Complete the task associated to this TODO comment.(·‰Ë5
+r
+java:S1128"URemove this unused import 'com.imooc.api.controller.files.FileUploaderControllerApi'.(øš—Ì8½ •­0
+j
+java:S1128"MRemove this unused import 'com.imooc.api.controller.user.HelloControllerApi'.(ö¼üâ8¾ •­0
+]
+java:S1128	";Remove this unused import 'com.imooc.enums.FaceVerifyType'.(ÀàÃÃÿÿÿÿÿ8¾ •­0

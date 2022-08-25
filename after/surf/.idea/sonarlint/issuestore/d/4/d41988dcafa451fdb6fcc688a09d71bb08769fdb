@@ -1,0 +1,38 @@
+
+g
+java:S1192."LDefine a constant instead of duplicating this literal "publishTime" 3 times.(Ç’Þ”ùÿÿÿÿ
+j
+java:S3252B"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(¶—ìÖýÿÿÿÿ
+R
+java:S1854N"<Remove this useless assignment to local variable "criteria".(ŽœÞ
+C
+java:S1481N"-Remove this unused "criteria" local variable.(ŽœÞ
+e
+java:S3252P"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(¼×Ÿú
+j
+java:S3252v"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(¶—ìÖýÿÿÿÿ
+m
+java:S3252ˆ"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(¼×Ÿú8ãÒÒŽ«0
+d
+java:S1128"IRemove this unused import 'com.imooc.article.mapper.ArticleMapperCustom'.(ñË…Çùÿÿÿÿ
+[
+java:S1128	"ERemove this unused import 'com.imooc.article.service.ArticleService'.(­õÇ‰
+U
+java:S1128
+"?Remove this unused import 'com.imooc.enums.ArticleAppointType'.(‡–þÀ
+Z
+java:S1128"?Remove this unused import 'com.imooc.enums.ArticleReviewLevel'.(Í£×±þÿÿÿÿ
+Z
+java:S1128"?Remove this unused import 'com.imooc.exception.GraceException'.(™Á–øÿÿÿÿ
+a
+java:S1128"FRemove this unused import 'com.imooc.grace.result.ResponseStatusEnum'.(Ê£€Äúÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'com.imooc.pojo.Category'.(á©Ü
+V
+java:S1128";Remove this unused import 'com.imooc.pojo.bo.NewArticleBO'.(åü«üÿÿÿÿ
+a
+java:S1128"FRemove this unused import 'com.imooc.utils.extend.AliTextReviewUtils'.(ï‰±áþÿÿÿÿ
+G
+java:S1128"1Remove this unused import 'org.n3r.idworker.Sid'.(¿·ûÔ
+p
+java:S1128"URemove this unused import 'org.springframework.transaction.annotation.Transactional'.(ðùçøùÿÿÿÿ

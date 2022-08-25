@@ -1,0 +1,17 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(ÃÕÓèúÿÿÿÿ
+W
+java:S1128";Remove this unused import 'com.imooc.pojo.bo.AdminLoginBO'.(ãåˆ8‹¥Ä£¬0
+V
+java:S1128"9Remove this unused import 'com.imooc.pojo.bo.NewAdminBO'.(õÃ–İ8‹¥Ä£¬0
+^
+java:S1128	"<Remove this unused import 'io.swagger.annotations.ApiParam'.(…÷Åúÿÿÿÿ8‹¥Ä£¬0
+k
+java:S1128
+"IRemove this unused import 'org.springframework.validation.BindingResult'.(‹¶¸ùÿÿÿÿ8Œ¥Ä£¬0
+S
+java:S1128"1Remove this unused import 'javax.naming.Binding'.(ÛÆ§“úÿÿÿÿ8Œ¥Ä£¬0
+_
+java:S1128"BRemove this unused import 'javax.servlet.http.HttpServletRequest'.(ø©¹…8Œ¥Ä£¬0
+`
+java:S1128"CRemove this unused import 'javax.servlet.http.HttpServletResponse'.(Á¨ïë8Œ¥Ä£¬0

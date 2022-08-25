@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="surf-news-dev-service-search" />
+        <module name="imooc-news-dev-gateway" />
+        <module name="surf-news-dev-service-article-html" />
+        <module name="surf-news-dev-service-api" />
+        <module name="surf-news-dev-service-user" />
+        <module name="surf-news-dev-service-article" />
+        <module name="surf-news-dev-common" />
+        <module name="surf-news-dev-service-admin" />
+        <module name="surf-news-dev-service-files" />
+        <module name="surf-news-dev-model" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="imooc-news-dev-gateway" target="1.8" />
+      <module name="mooc-news-dev-gateway" target="1.8" />
+      <module name="springcloud-config" target="1.8" />
+      <module name="springcloud-eureka" target="1.8" />
+      <module name="springcloud-eureka-cluster" target="1.8" />
+      <module name="springcloud-zuul-server" target="1.8" />
+      <module name="surf" target="1.8" />
+      <module name="surf-news-dev-common" target="1.8" />
+      <module name="surf-news-dev-model" target="1.8" />
+      <module name="surf-news-dev-service-admin" target="1.8" />
+      <module name="surf-news-dev-service-api" target="1.8" />
+      <module name="surf-news-dev-service-article" target="1.8" />
+      <module name="surf-news-dev-service-article-html" target="1.8" />
+      <module name="surf-news-dev-service-files" target="1.8" />
+      <module name="surf-news-dev-service-search" target="1.8" />
+      <module name="surf-news-dev-service-user" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="imooc-news-dev-gateway" options="-parameters" />
+      <module name="mooc-news-dev-gateway" options="-parameters" />
+      <module name="springcloud-config" options="-parameters" />
+      <module name="springcloud-eureka" options="-parameters" />
+      <module name="springcloud-eureka-cluster" options="-parameters" />
+      <module name="springcloud-zuul-server" options="-parameters" />
+      <module name="surf" options="" />
+      <module name="surf-news-dev-common" options="-parameters" />
+      <module name="surf-news-dev-model" options="-parameters" />
+      <module name="surf-news-dev-service-admin" options="-parameters" />
+      <module name="surf-news-dev-service-api" options="-parameters" />
+      <module name="surf-news-dev-service-article" options="-parameters" />
+      <module name="surf-news-dev-service-article-html" options="-parameters" />
+      <module name="surf-news-dev-service-files" options="-parameters" />
+      <module name="surf-news-dev-service-search" options="-parameters" />
+      <module name="surf-news-dev-service-user" options="-parameters" />
+    </option>
+  </component>
+</project>

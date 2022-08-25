@@ -1,0 +1,13 @@
+
+]
+java:S2222";Unlock this lock along all executions paths of this method.(¥ó³üÿÿÿÿ8ú§Ê°«0
+X	java:S125"<This block of commented-out lines of code should be removed.(—»«Á8ÎªÉ°«0
+{
+java:S2142 "^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8á…É°«0
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(Æ¨ÿŸüÿÿÿÿ8Õ—“±«0
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(Š‡‰½
+9
+java:S1116)"Remove this empty statement.(´Àıı8„…ÿ®«0
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(«Œı¹şÿÿÿÿ8‘±«0
+E
+java:S1068"*Remove this unused "LOGGER" private field.(‚ë§øÿÿÿÿ

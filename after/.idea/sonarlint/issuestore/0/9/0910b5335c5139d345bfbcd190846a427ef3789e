@@ -1,0 +1,12 @@
+
+Z
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ýÑ–
+Q	java:S125Z"<This block of commented-out lines of code should be removed.(˜”ö
+c
+java:S1128"MRemove this unused import 'com.imooc.api.controller.user.HelloControllerApi'.(ö¼üâ
+N
+java:S1128	"3Remove this unused import 'com.imooc.pojo.AppUser'.(ŽÂ¥üÿÿÿÿ
+U
+java:S1128":Remove this unused import 'com.imooc.utils.RedisOperator'.(•‰÷»ûÿÿÿÿ
+e
+java:S1128"ORemove this unused import 'org.springframework.web.bind.annotation.GetMapping'.(‡¡‰Ø

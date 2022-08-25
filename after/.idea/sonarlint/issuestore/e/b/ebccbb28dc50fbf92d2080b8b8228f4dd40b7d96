@@ -1,0 +1,26 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112,"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112="FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112F"FDefine and throw a dedicated exception instead of using a generic one.(ŠÉ÷üøÿÿÿÿ
+`	java:S112N"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112]"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(«ŸÎÚşÿÿÿÿ
+7
+java:S2189""Add an end condition to this loop.(¤èÄ7
+P
+java:S1118":Add a private constructor to hide the implicit public one.(³‚
+=	java:S108")Either remove or fill this block of code.(ôÍÏ
+E
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+=	java:S108*")Either remove or fill this block of code.(ôÍÏ
+E
+java:S2093%"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+E
+java:S20938"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+>	java:S108O")Either remove or fill this block of code.(Úîø›
+E
+java:S2093H"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+E
+java:S2093V"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ

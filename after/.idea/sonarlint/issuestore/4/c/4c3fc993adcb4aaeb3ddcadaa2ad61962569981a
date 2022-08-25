@@ -1,0 +1,21 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ëŞï®
+W
+java:S2259;"AA "NullPointerException" could be thrown; "out" is nullable here.(„¸Ç§
+h
+java:S2095O"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(úäĞÆıÿÿÿÿ
+h
+java:S2095 "MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(úäĞÆıÿÿÿÿ
+U
+java:S1118
+":Add a private constructor to hide the implicit public one.(Ó™€¸ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(İÙ–Äúÿÿÿÿ
+Z
+java:S21477"DCombine this catch with the one at line 53, which has the same body.(”ı¾
+Z
+java:S2147?"DCombine this catch with the one at line 61, which has the same body.(”ı¾
+E
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+`
+java:S2674Q"JCheck the return value of the "read" call to see how many bytes were read.(×âöË

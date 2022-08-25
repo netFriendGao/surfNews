@@ -1,0 +1,12 @@
+
+p	java:S1160"VRename this field "DOMAIN_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—×øĞùÿÿÿÿ
+C
+java:S1172U".Remove this unused method parameter "request".(²¹Âx
+Z	java:S106Z"9Replace this use of System.out or System.err by a logger.(Šóèìşÿÿÿÿ8şÔô€­0
+Q	java:S125v"<This block of commented-out lines of code should be removed.(½Å¹
+u
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Qualifier'.(íàÄ®ıÿÿÿÿ8•í•­0
+U
+java:S1128"3Remove this unused import 'javax.validation.Valid'.(æ¤ñ÷úÿÿÿÿ8–í•­0
+L
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8–í•­0

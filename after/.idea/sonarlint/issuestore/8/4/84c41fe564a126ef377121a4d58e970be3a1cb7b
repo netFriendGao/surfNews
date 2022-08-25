@@ -1,0 +1,30 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¤…Šœşÿÿÿÿ
+b
+java:S1192!"LDefine a constant instead of duplicating this literal "cn-shanghai" 3 times.(Ö¹Âä
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¤…Šœşÿÿÿÿ
+I
+java:S1874#"3Remove this use of "addEndpoint"; it is deprecated.(¨Êëû
+R
+java:S1874("7Remove this use of "setAcceptFormat"; it is deprecated.(á€ª„şÿÿÿÿ
+L
+java:S1874*"1Remove this use of "setMethod"; it is deprecated.(Èåıÿÿÿÿ
+I
+java:S1874+"3Remove this use of "setEncoding"; it is deprecated.(™Œ´Ú
+I
+java:S1874-"3Remove this use of "setProtocol"; it is deprecated.(ÌÎş
+O
+java:S1874P"9Remove this use of "setConnectTimeout"; it is deprecated.(Ûüê
+Q
+java:S1874Q"6Remove this use of "setReadTimeout"; it is deprecated.(›¤ÌÍüÿÿÿÿ
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(éØ€´ûÿÿÿÿ
+P	java:S125h"<This block of commented-out lines of code should be removed.(Œ¬Õ)
+N	java:S106m"9Replace this use of System.out or System.err by a logger.(‚Ü«Ë
+M	java:S106n"9Replace this use of System.out or System.err by a logger.(ÚØ
+C
+java:S1125p"(Remove the unnecessary boolean literals.(¯¤”Çúÿÿÿÿ
+V	java:S125q"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+N	java:S106t"9Replace this use of System.out or System.err by a logger.(â—˜
+N	java:S106|"9Replace this use of System.out or System.err by a logger.(‘Ú÷ˆ
+Usecrets:S6336!"<Make sure this Alibaba Cloud Access Key ID is not disclosed.(Ö¹Âä
