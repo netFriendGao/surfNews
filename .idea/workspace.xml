@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="edef0981-68e4-4fce-a470-8d9826cd0fbe" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/META-INF/spring-configuration-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/aliyun.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/com/imooc/api/config/RedissonManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/com/imooc/enums/ArticleAppointType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/com/imooc/enums/ArticleCoverType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/com/imooc/enums/ArticleReviewLevel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/com/imooc/enums/ArticleReviewStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/com/imooc/enums/DBTypeEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/com/imooc/enums/FaceVerifyType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/com/imooc/enums/PayMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/com/imooc/enums/Sex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/com/imooc/enums/UserStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/com/imooc/enums/YesOrNo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/com/imooc/exception/GraceException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/com/imooc/exception/GraceExceptionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/com/imooc/exception/MyCustomException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/com/imooc/grace/result/GraceJSONResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/com/imooc/grace/result/IMOOCJSONResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/com/imooc/grace/result/ResponseStatusEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/com/imooc/utils/DateUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/com/imooc/utils/DesensitizationUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/com/imooc/utils/DynamicDbUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/com/imooc/utils/FaceVerifyUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/com/imooc/utils/FileUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/com/imooc/utils/IPUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/com/imooc/utils/JsonUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/com/imooc/utils/PagedGridResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/com/imooc/utils/RedisOperator$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/com/imooc/utils/RedisOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/com/imooc/utils/RedissonLock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/com/imooc/utils/SendSms.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/com/imooc/utils/SensitiveFilter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/com/imooc/utils/SensitiveFilter$TrieNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/com/imooc/utils/SensitiveFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/com/imooc/utils/UrlUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/com/imooc/utils/extend/AliImageReviewUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/com/imooc/utils/extend/AliTextReviewUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/com/imooc/utils/extend/AliyunResource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/com/imooc/utils/extend/CompareFaceByBase64Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/com/imooc/utils/isMobiPhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/org/n3r/idworker/Code.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/org/n3r/idworker/DayCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/org/n3r/idworker/Id.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/org/n3r/idworker/IdWorker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/org/n3r/idworker/InvalidSystemClock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/org/n3r/idworker/RandomCodeStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/org/n3r/idworker/Sid$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/org/n3r/idworker/Sid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/org/n3r/idworker/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/org/n3r/idworker/WorkerIdStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/org/n3r/idworker/strategy/DayPrefixRandomCodeStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/org/n3r/idworker/strategy/DefaultRandomCodeStrategy$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/org/n3r/idworker/strategy/DefaultRandomCodeStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/org/n3r/idworker/strategy/DefaultWorkerIdStrategy$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/org/n3r/idworker/strategy/DefaultWorkerIdStrategy$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/org/n3r/idworker/strategy/DefaultWorkerIdStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/org/n3r/idworker/strategy/FileLock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/org/n3r/idworker/utils/HttpReq.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/org/n3r/idworker/utils/IPv4Utils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/org/n3r/idworker/utils/Ip.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/org/n3r/idworker/utils/Props$Silent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/org/n3r/idworker/utils/Props.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/org/n3r/idworker/utils/Serializes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/org/n3r/idworker/utils/Utils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/classes/sensitive-words.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/imooc-news-dev-common.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-model/target/classes/com/imooc/pojo/AdminUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-model/target/classes/com/imooc/pojo/AppUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-model/target/classes/com/imooc/pojo/Article.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-model/target/classes/com/imooc/pojo/Category.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-model/target/classes/com/imooc/pojo/Comments.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-model/target/classes/com/imooc/pojo/Fans.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-model/target/classes/com/imooc/pojo/Spouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-model/target/classes/com/imooc/pojo/Stu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-model/target/classes/com/imooc/pojo/bo/AdminLoginBO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-model/target/classes/com/imooc/pojo/bo/CommentReplyBO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-model/target/classes/com/imooc/pojo/bo/NewAdminBO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-model/target/classes/com/imooc/pojo/bo/NewArticleBO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-model/target/classes/com/imooc/pojo/bo/RegistLoginBO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-model/target/classes/com/imooc/pojo/bo/SaveCategoryBO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-model/target/classes/com/imooc/pojo/bo/SaveFriendLinkBO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-model/target/classes/com/imooc/pojo/bo/UpdateUserInfoBO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-model/target/classes/com/imooc/pojo/eo/ArticleEO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-model/target/classes/com/imooc/pojo/eo/FansEO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-model/target/classes/com/imooc/pojo/mo/FriendLinkMO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-model/target/classes/com/imooc/pojo/vo/AppUserVO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-model/target/classes/com/imooc/pojo/vo/ArticleDetailVO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-model/target/classes/com/imooc/pojo/vo/CommentsVO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-model/target/classes/com/imooc/pojo/vo/FansCountsVO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-model/target/classes/com/imooc/pojo/vo/IndexArticleVO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-model/target/classes/com/imooc/pojo/vo/PublisherVO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-model/target/classes/com/imooc/pojo/vo/RegionRatioVO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-model/target/classes/com/imooc/pojo/vo/UserAccountInfoVO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-model/target/classes/com/imooc/validate/CheckUrl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-model/target/classes/com/imooc/validate/CheckUrlValidate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-model/target/imooc-news-dev-model.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-model/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-model/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-model/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-admin/target/classes/application-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-admin/target/classes/application-prod.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-admin/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-admin/target/classes/com/imooc/admin/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-admin/target/classes/com/imooc/admin/controller/AdminMngController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-admin/target/classes/com/imooc/admin/controller/CategoryMngController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-admin/target/classes/com/imooc/admin/controller/FriendLinkController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-admin/target/classes/com/imooc/admin/controller/PWDTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-admin/target/classes/com/imooc/admin/mapper/AdminUserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-admin/target/classes/com/imooc/admin/mapper/CategoryMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-admin/target/classes/com/imooc/admin/repository/FriendLinkRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-admin/target/classes/com/imooc/admin/service/AdminUserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-admin/target/classes/com/imooc/admin/service/CategoryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-admin/target/classes/com/imooc/admin/service/FriendLinkService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-admin/target/classes/com/imooc/admin/service/impl/AdminUserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-admin/target/classes/com/imooc/admin/service/impl/CategoryServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-admin/target/classes/com/imooc/admin/service/impl/FriendLinkServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-admin/target/classes/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-admin/target/classes/mapper/AdminUserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-admin/target/classes/mapper/CategoryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-admin/target/imooc-news-dev-service-admin.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-admin/target/imooc-news-dev-service-admin10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-admin/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-admin/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-admin/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/classes/META-INF/spring-configuration-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/classes/com/imooc/abstr/DynamicDataSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/classes/com/imooc/anno/ReadOnly.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/classes/com/imooc/api/BaseController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/classes/com/imooc/api/aspect/DataSourceAop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/classes/com/imooc/api/aspect/ServiceLogAspect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/classes/com/imooc/api/config/CloudConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/classes/com/imooc/api/config/CorsConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/classes/com/imooc/api/config/DataSourceConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/classes/com/imooc/api/config/DateConverterConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/classes/com/imooc/api/config/InterceptorConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/classes/com/imooc/api/config/MyServiceList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/classes/com/imooc/api/config/RabbitMQConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/classes/com/imooc/api/config/RabbitMQDelayConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/classes/com/imooc/api/config/RedisConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/classes/com/imooc/api/config/Swagger2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/classes/com/imooc/api/controller/admin/AdminMngControllerApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/classes/com/imooc/api/controller/admin/CategoryMngControllerApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/classes/com/imooc/api/controller/admin/FriendLinkControllerApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/classes/com/imooc/api/controller/admin/ReadFace64InGridFsApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/classes/com/imooc/api/controller/article/ArticleControllerApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/classes/com/imooc/api/controller/article/ArticleHTMLControllerApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/classes/com/imooc/api/controller/article/ArticlePortalControllerApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/classes/com/imooc/api/controller/article/CommentControllerApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/classes/com/imooc/api/controller/files/FileUploaderControllerApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/classes/com/imooc/api/controller/user/AppUserMngControllerApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/classes/com/imooc/api/controller/user/HelloControllerApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/classes/com/imooc/api/controller/user/MyFansControllerApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/classes/com/imooc/api/controller/user/PassportControllerApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/classes/com/imooc/api/controller/user/UserControllerApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/classes/com/imooc/api/interceptors/AdminCookieTokenInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/classes/com/imooc/api/interceptors/AdminTokenInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/classes/com/imooc/api/interceptors/ArticleReadInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/classes/com/imooc/api/interceptors/BaseInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/classes/com/imooc/api/interceptors/PassportInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/classes/com/imooc/api/interceptors/UserActiveInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/classes/com/imooc/api/interceptors/UserTokenInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/classes/com/imooc/api/service/BaseService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/classes/com/imooc/my/mapper/MyMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/classes/com/rule/MyRule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/imooc-news-dev-service-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article-html/target/classes/application-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article-html/target/classes/application-prod.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article-html/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article-html/target/classes/com/imooc/article/html/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article-html/target/classes/com/imooc/article/html/GridFSConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article-html/target/classes/com/imooc/article/html/RabbitMQConsumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article-html/target/classes/com/imooc/article/html/controller/ArticleHTMLComponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article-html/target/classes/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article-html/target/imooc-news-dev-service-article-html.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article-html/target/imooc-news-dev-service-article-html.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article-html/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article-html/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article-html/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article/target/classes/application-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article/target/classes/application-prod.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article/target/classes/com/imooc/article/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article/target/classes/com/imooc/article/GridFSConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article/target/classes/com/imooc/article/RabbitMQDelayConsumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article/target/classes/com/imooc/article/controller/ArticleController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article/target/classes/com/imooc/article/controller/ArticlePortalController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article/target/classes/com/imooc/article/controller/ArticlePortalController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article/target/classes/com/imooc/article/controller/CommentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article/target/classes/com/imooc/article/controller/FreemarkerController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article/target/classes/com/imooc/article/controller/HelloController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article/target/classes/com/imooc/article/controller/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article/target/classes/com/imooc/article/mapper/ArticleMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article/target/classes/com/imooc/article/mapper/ArticleMapperCustom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article/target/classes/com/imooc/article/mapper/CommentsMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article/target/classes/com/imooc/article/mapper/CommentsMapperCustom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article/target/classes/com/imooc/article/service/ArticlePortalService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article/target/classes/com/imooc/article/service/ArticleService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article/target/classes/com/imooc/article/service/CommentPortalService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article/target/classes/com/imooc/article/service/impl/ArticlePortalServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article/target/classes/com/imooc/article/service/impl/ArticleServiceImpl$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article/target/classes/com/imooc/article/service/impl/ArticleServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article/target/classes/com/imooc/article/service/impl/CommentPortalServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article/target/classes/com/imooc/article/stream/MyStreamChannel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article/target/classes/com/imooc/article/stream/MyStreamConsumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article/target/classes/com/imooc/article/stream/StreamService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article/target/classes/com/imooc/article/stream/StreamServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article/target/classes/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article/target/classes/mapper/ArticleMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article/target/classes/mapper/ArticleMapperCustom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article/target/classes/mapper/CommentsMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article/target/classes/mapper/CommentsMapperCustom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article/target/classes/templates/detail.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article/target/classes/templates/stu.ftl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article/target/imooc-news-dev-service-article.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article/target/imooc-news-dev-service-article.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-article/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-files/target/classes/META-INF/spring-configuration-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-files/target/classes/application-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-files/target/classes/application-prod.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-files/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-files/target/classes/com/imooc/files/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-files/target/classes/com/imooc/files/GridFSConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-files/target/classes/com/imooc/files/controller/FileUploaderController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-files/target/classes/com/imooc/files/controller/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-files/target/classes/com/imooc/files/resource/FileResource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-files/target/classes/com/imooc/files/service/UploaderService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-files/target/classes/com/imooc/files/service/impl/UploaderServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-files/target/classes/file-dev.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-files/target/classes/file-prod.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-files/target/classes/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-files/target/imooc-news-dev-service-files.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-files/target/imooc-news-dev-service-files.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-files/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-files/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-files/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-search/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-search/target/classes/com/imooc/search/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-search/target/classes/com/imooc/search/controller/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-search/target/classes/com/imooc/search/pojo/Stu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-search/target/imooc-news-dev-service-search.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-search/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-search/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-search/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-user/target/classes/application-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-user/target/classes/application-prod.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-user/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-user/target/classes/com/imooc/user/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-user/target/classes/com/imooc/user/controller/AppUserMngController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-user/target/classes/com/imooc/user/controller/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-user/target/classes/com/imooc/user/controller/MyFansController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-user/target/classes/com/imooc/user/controller/PassportController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-user/target/classes/com/imooc/user/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-user/target/classes/com/imooc/user/mapper/AppUserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-user/target/classes/com/imooc/user/mapper/AppUserMapperCustom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-user/target/classes/com/imooc/user/mapper/FansMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-user/target/classes/com/imooc/user/service/AppUserMngService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-user/target/classes/com/imooc/user/service/MyFanService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-user/target/classes/com/imooc/user/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-user/target/classes/com/imooc/user/service/impl/AppUserMngServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-user/target/classes/com/imooc/user/service/impl/MyFanServiceImpl$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-user/target/classes/com/imooc/user/service/impl/MyFanServiceImpl$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-user/target/classes/com/imooc/user/service/impl/MyFanServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-user/target/classes/com/imooc/user/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-user/target/classes/com/imooc/user/stream/MyStreamChannel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-user/target/classes/com/imooc/user/stream/MyStreamConsumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-user/target/classes/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-user/target/classes/mapper/AppUserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-user/target/classes/mapper/AppUserMapperCustom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-user/target/classes/mapper/FansMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-user/target/imooc-news-dev-service-user.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-user/target/imooc-news-dev-service-user.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-user/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-user/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/after/surf/surf-news-dev-service-user/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2DqrUQN6YYcnbtd3PVYZM7bzP5q" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="edef0981-68e4-4fce-a470-8d9826cd0fbe" name="Changes" comment="" />
+      <created>1661437471252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661437471252</updated>
+      <workItem from="1661437472675" duration="76000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
